@@ -1,0 +1,5 @@
+#incldue <stdio>
+int main(){
+   printf("I love you");
+   return 0;
+}
