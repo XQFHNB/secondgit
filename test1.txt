@@ -1,6 +1,6 @@
 package net.mindview.util;
 
-
+ewfef
 
 public class Print{
 	class Contents{
